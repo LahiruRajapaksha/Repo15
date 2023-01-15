@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.1.2"
+  export = ["gqlempty"]
+  icon = "docs/icon.png"
+  keywords = ["Type/GraphQL","Category/Service","Internal/http"]
+  name = "gqlempty"
+  org = "lahirurajapaksha"
+  version = "1.0.1"
+
